@@ -7,13 +7,7 @@ name = raw_input("Your name:")
 age = int(input("Your age:"))
 
 year = str((2017 - age) + 100)
-year = str((2017 - age) + 100)
-year = str((2017 - age) + 100)
-year = str((2017 - age) + 100)
 
-print year
-print year
-print year
 print year
 
 
